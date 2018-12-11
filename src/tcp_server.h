@@ -2,7 +2,7 @@
 
 #include <thread>
 #include "asio/asio.hpp"
-#include "TcpSession.h"
+#include "tcp_session.h"
 #include "Datagram.h"
 
 namespace ofxAsio {

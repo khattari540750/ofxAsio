@@ -1,7 +1,7 @@
 #pragma once
 
 #include "asio/asio.hpp"
-#include "AsioUdpSocket.h"
+#include "udp_socket.h"
 
 /*
 To be used as such:

@@ -1,7 +1,7 @@
 #pragma once
 
 #include "asio/asio.hpp"
-#include "Endpoint.h"
+#include "endpoint.h"
 #include <string>
 
 namespace ofxAsio {
